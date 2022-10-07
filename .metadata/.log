@@ -1,0 +1,23 @@
+!SESSION 2022-09-13 16:16:11.016 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -perspective org.eclipse.cdt.ui.CPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective org.eclipse.cdt.ui.CPerspective
+
+!ENTRY net.sourceforge.usbdm.constants 1 0 2022-09-13 16:16:45.681
+!MESSAGE [net.sourceforge.usbdm.constants, 5.0.0.202007062211].start()
+
+!ENTRY net.sourceforge.usbdm.constants 1 0 2022-09-13 16:16:45.682
+!MESSAGE loadUsbdmPaths()
+
+!ENTRY net.sourceforge.usbdm.constants 1 0 2022-09-13 16:16:45.778
+!MESSAGE UsbdmSharedSettings.getSharedSettings() - loaded settings from file 'C:\Users\jessb\AppData\Roaming\usbdm\UsbdmEclipseSharedSettings.xml'
+
+
+!ENTRY net.sourceforge.usbdm.constants 1 0 2022-09-13 16:16:45.782
+!MESSAGE loadUsbdmPath() - KDS path is invalid or not set = 
+
+!ENTRY net.sourceforge.usbdm.constants 1 0 2022-09-13 16:16:45.785
+!MESSAGE loadUsbdmPath() - Failed to set kdsPath path variables
